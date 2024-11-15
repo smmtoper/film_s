@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string-array name="movies_list">
+        <item>Такси</item>
+        <item>Такси 1</item>
+        <item>Бойцовский клуб</item>
+        <item>Американский психопат</item>
+        <item>Зеленая миля</item>
+        <item>Зеленая книга</item>
+    </string-array>
+</resources>
